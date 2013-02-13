@@ -1,4 +1,4 @@
-Stocks
+Stocks [HTML5, jQuery]
 =============================
 
 In this HTML5 learning app, I would get stock quotes from Yahoo Finance API
@@ -19,5 +19,5 @@ Installation
 -----------------------------
 
 
-Contribute to this project
+Contribute
 -----------------------------
